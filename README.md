@@ -5,3 +5,5 @@ I'm a professional game- and software engineer and former game engineering colle
 Currently working with some great people on [Pixome](https://pixome.io).
 
 And I'm making my own web-based massive multiplayer modular pixel art game engine named [Subako](https://subako.io) - it's already pretty much fully functional, now I just have to draw an entire game around it..
+
+Also, I moved to hosting my own Git repository via [Forgejo](https://forgejo.org/) so the activity here does not reflect how active I really am.
